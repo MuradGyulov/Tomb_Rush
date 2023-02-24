@@ -377,7 +377,7 @@ TextureImporter:
         width: 23
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -385,6 +385,48 @@ TextureImporter:
       bones: []
       spriteID: 624a9571447635447a3fc8ee13c1cfb8
       internalID: 410089200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Review Icon
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 336
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f4b130c97ad2d4ea8304d035992ac3
+      internalID: -2016526225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit Icon
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 329
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e943f9bed29ad404bb129a7c554ad942
+      internalID: -1157647791
       vertices: []
       indices: 
       edges: []
@@ -400,6 +442,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Exit Icon: -1157647791
       Games Icon: 587465588
       Home Icon: 1998923061
       Huge Button: 243336129
@@ -408,6 +451,7 @@ TextureImporter:
       Pause Icon: 806940628
       Play Icon: 1263100015
       Restart Icon: -2125790134
+      Review Icon: -2016526225
       Settings Icon: -1075705328
       Shield Icon: 1864521962
       Shoop Icon: 410089200
